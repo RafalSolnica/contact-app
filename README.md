@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rafał Solnica - Simple contact app
+
+Welcome to my simple contacting application made for learning React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
