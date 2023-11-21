@@ -1,4 +1,4 @@
-import { Container } from "./Components/Container";
+import { Container } from "../Container";
 
 function App() {
   console.log("Hello World!");
