@@ -1,0 +1,7 @@
+{
+  "short_name": "Contact App",
+  "name": "Contact Application created as a React practice",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone"
+}

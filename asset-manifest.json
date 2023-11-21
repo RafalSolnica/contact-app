@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/contact-app/static/js/main.2c1fdf2c.js",
+    "static/js/787.9dc26c9e.chunk.js": "/contact-app/static/js/787.9dc26c9e.chunk.js",
+    "index.html": "/contact-app/index.html",
+    "main.2c1fdf2c.js.map": "/contact-app/static/js/main.2c1fdf2c.js.map",
+    "787.9dc26c9e.chunk.js.map": "/contact-app/static/js/787.9dc26c9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2c1fdf2c.js"
+  ]
+}
